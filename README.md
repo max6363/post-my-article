@@ -2,13 +2,6 @@
 
 PostMyArticle is an iOS application built using Swift and the VIPER architecture, focusing on clean code, modularity, and maintainability. This app enables users to easily create, manage, and publish articles.
 
-## Features
-
-- **Create Articles:** Write and publish articles directly from your iOS device.
-- **Edit and Delete Articles:** Manage your existing articles conveniently.
-- **Secure Authentication:** Provides a secure login and registration process.
-- **Offline Support:** Access and manage your articles even without internet connectivity.
-
 ## Architecture
 
 The application is developed using the VIPER architecture, promoting clear separation of concerns and scalability:
@@ -52,17 +45,7 @@ open PostMyArticle-WS.xcworkspace
 
 Build and run the app using `Cmd + R` in Xcode.
 
-## Dependencies
-
-- **Alamofire**: Network requests handling.
-- **Realm**: Efficient local data storage.
-- **SnapKit**: Simplified AutoLayout constraints.
-
 ## Contributing
 
 Your contributions are welcome! Please fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
