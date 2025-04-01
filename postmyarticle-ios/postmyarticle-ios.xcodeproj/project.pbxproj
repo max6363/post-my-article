@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		4B61872C2D9C631D00878DAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4B61872B2D9C631D00878DAF /* README.md */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		4BEB9BD42D98C06200C8051D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -28,7 +24,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4B61872B2D9C631D00878DAF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4BEB9BBD2D98C06100C8051D /* postmyarticle-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "postmyarticle-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BEB9BD32D98C06200C8051D /* postmyarticle-iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "postmyarticle-iosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BEB9BDD2D98C06200C8051D /* postmyarticle-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "postmyarticle-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -93,7 +88,6 @@
 		4BEB9BB42D98C06100C8051D = {
 			isa = PBXGroup;
 			children = (
-				4B61872B2D9C631D00878DAF /* README.md */,
 				4BEB9BBF2D98C06100C8051D /* postmyarticle-ios */,
 				4BEB9BD62D98C06200C8051D /* postmyarticle-iosTests */,
 				4BEB9BE02D98C06200C8051D /* postmyarticle-iosUITests */,
@@ -231,7 +225,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B61872C2D9C631D00878DAF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
