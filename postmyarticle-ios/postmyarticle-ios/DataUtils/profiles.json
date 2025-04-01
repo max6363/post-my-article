@@ -1,0 +1,25 @@
+{
+  "profiles": [
+    {
+      "author_id": "101",
+      "display_name": "James",
+      "user_name": "@james09",
+      "profile_thumbnail": "person.crop.circle",
+      "bio": "Passionate iOS developer exploring SwiftUI, performance optimization, and app deployment on the App Store."
+    },
+    {
+      "author_id": "102",
+      "display_name": "Carla",
+      "user_name": "@carla-star",
+      "profile_thumbnail": "person.crop.circle.fill",
+      "bio": "iOS enthusiast focused on modern Swift frameworks like SwiftUI, Async/Await, and Swift Data for clean and efficient app development."
+    },
+    {
+      "author_id": "103",
+      "display_name": "Elizabeth",
+      "user_name": "@elizabeth",
+      "profile_thumbnail": "person.circle",
+      "bio": "Experienced iOS developer skilled in Xcode debugging, performance profiling, and reactive programming with Combine."
+    }
+  ]
+}

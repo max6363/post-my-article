@@ -1,0 +1,124 @@
+{
+    "profiles": [
+      {
+        "author_id": "101",
+        "display_name": "James",
+        "user_name": "@james09",
+        "profile_thumbnail": "person.crop.circle",
+        "bio": "Passionate iOS developer exploring SwiftUI, performance optimization, and app deployment on the App Store."
+      },
+      {
+        "author_id": "102",
+        "display_name": "Carla",
+        "user_name": "@carla-star",
+        "profile_thumbnail": "person.crop.circle.fill",
+        "bio": "iOS enthusiast focused on modern Swift frameworks like SwiftUI, Async/Await, and Swift Data for clean and efficient app development."
+      },
+      {
+        "author_id": "103",
+        "display_name": "Elizabeth",
+        "user_name": "@elizabeth",
+        "profile_thumbnail": "person.circle",
+        "bio": "Experienced iOS developer skilled in Xcode debugging, performance profiling, and reactive programming with Combine."
+      }
+    ],
+  "items": [
+    {
+      "post_id": "1",
+      "author_id": "101",
+      "author_display_name": "James",
+      "author_user_name": "@james09",
+      "author_thumbnail": "person.crop.circle",
+      "description": "Exploring SwiftUI has been incredible, looking forward to building more seamless apps with these powerful tools! SwiftUI offers a simple yet powerful way to create intuitive user interfaces quickly, allowing developers to spend more time focusing on functionality and user experience.",
+      "date_posted": "2025-03-25T10:00:00Z",
+      "likes": 34,
+      "comments": 5,
+      "tags": ["SwiftUI", "iOS", "Development"]
+    },
+    {
+      "post_id": "2",
+      "author_id": "102",
+      "author_display_name": "Carla",
+      "author_user_name": "@carla-star",
+      "author_thumbnail": "person.crop.circle.fill",
+      "description": "Finally tried out the new Async/Await features in Swift. They make asynchronous coding so much simpler and cleaner! It eliminates the complexity of callbacks and significantly improves code readability, reducing errors and making asynchronous code management effortless.",
+      "date_posted": "2025-03-24T12:30:00Z",
+      "likes": 57,
+      "comments": 12,
+      "tags": ["AsyncAwait", "Swift"]
+    },
+    {
+      "post_id": "3",
+      "author_id": "103",
+      "author_display_name": "Elizabeth",
+      "author_user_name": "@elizabeth",
+      "author_thumbnail": "person.circle",
+      "description": "Debugging iOS apps can be tricky, but learning some advanced Xcode tricks today was a game-changer for productivity. Understanding breakpoints, memory debugging, and the built-in Xcode profiling tools can save countless hours and enhance the overall quality of the app.",
+      "date_posted": "2025-03-23T15:00:00Z",
+      "likes": 42,
+      "comments": 7,
+      "tags": ["Xcode", "Debugging"]
+    },
+    {
+      "post_id": "4",
+      "author_id": "101",
+      "author_display_name": "James",
+      "author_user_name": "@james09",
+      "author_thumbnail": "person.crop.circle",
+      "description": "Just published my first app to the App Store! The process involved rigorous testing, compliance with guidelines, and much more. The journey has taught me invaluable lessons about software development and distribution.",
+      "date_posted": "2025-03-22T09:45:00Z",
+      "likes": 100,
+      "comments": 20,
+      "tags": ["AppStore", "Milestone"]
+    },
+    {
+      "post_id": "5",
+      "author_id": "102",
+      "author_display_name": "Carla",
+      "author_user_name": "@carla-star",
+      "author_thumbnail": "person.crop.circle.fill",
+      "description": "Really enjoying building animations with SwiftUI. The declarative syntax is so intuitive compared to UIKit, allowing rapid prototyping and adjustments with immediate feedback, thus significantly accelerating the design and development workflow.",
+      "date_posted": "2025-03-21T11:15:00Z",
+      "likes": 65,
+      "comments": 8,
+      "tags": ["SwiftUI", "Animations"]
+    },
+    {
+      "post_id": "6",
+      "author_id": "103",
+      "author_display_name": "Elizabeth",
+      "author_user_name": "@elizabeth",
+      "author_thumbnail": "person.circle",
+      "description": "Spent the afternoon diving into Combine. Understanding publishers and subscribers finally clicked for me! It's powerful for handling asynchronous events and data streams, making it easier to manage complex app logic efficiently.",
+      "date_posted": "2025-03-20T14:20:00Z",
+      "likes": 49,
+      "comments": 9,
+      "tags": ["Combine", "ReactiveProgramming"]
+    },
+    {
+      "post_id": "7",
+      "author_id": "101",
+      "author_display_name": "James",
+      "author_user_name": "@james09",
+      "author_thumbnail": "person.crop.circle",
+      "description": "Optimizing performance taught me a lot about profiling and Instruments in Xcode. Efficient memory management and performance optimization directly translate to better user experiences and fewer crashes.",
+      "date_posted": "2025-03-19T08:50:00Z",
+      "likes": 38,
+      "comments": 6,
+      "tags": ["Performance", "Xcode"]
+    },
+    {
+      "post_id": "8",
+      "author_id": "102",
+      "author_display_name": "Carla",
+      "author_user_name": "@carla-star",
+      "author_thumbnail": "person.crop.circle.fill",
+      "description": "Started exploring Swift Data framework, it simplifies database handling beautifully. It offers streamlined data persistence solutions integrated directly into Swift, minimizing boilerplate code.",
+      "date_posted": "2025-03-18T13:05:00Z",
+      "likes": 52,
+      "comments": 10,
+      "tags": ["SwiftData", "Databases"]
+    }
+  ]
+}
+
