@@ -24,15 +24,6 @@ Follow these steps to run the project locally:
 git clone https://github.com/max6363/post-my-article.git
 ```
 
-### Install Dependencies
-
-Navigate into the project directory and install dependencies using CocoaPods:
-
-```bash
-cd post-my-article
-pod install
-```
-
 ### Open in Xcode
 
 Open `PostMyArticle-WS.xcworkspace` with Xcode:
